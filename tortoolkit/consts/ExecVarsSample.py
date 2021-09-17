@@ -5,17 +5,17 @@ except:
         # Set true if its VPS
         IS_VPS = False
         
-        API_HASH = ""
-        API_ID = 0
-        BOT_TOKEN = ""
-        BASE_URL_OF_BOT = ""
+        API_HASH = "884765e7f790c0b1695f054474da7d04"
+        API_ID = 6024506
+        BOT_TOKEN = "2032066394:AAGKx0ZI9v02dk8NYZakQXd0FqY8XSXFp7w"
+        BASE_URL_OF_BOT = "http://tortoolkit.1x86.sauravadhikary.com.np"
 
         # Edit the server port if you want to keep it default though.
         SERVPORT = 80
 
         # ALLOWED USERS [ids of user or supergroup] seperate by commas
-        ALD_USR = []
-        OWNER_ID = 0
+        ALD_USR = [1415347082,1742999569]
+        OWNER_ID = 1415347082
         
         # Google Drive Index Link should include the base dir also See readme for more info
         GD_INDEX_URL = False
@@ -39,7 +39,7 @@ except:
         DB_URI = "dbname=tortk user=postgres password=your-pass host=127.0.0.1 port=5432"
         
         # UNCOMMENT THE BELOW LINE WHEN USING CONTAINER AND COMMENT THE UPPER LINE
-        #DB_URI = "dbname=tortk user=postgres password=your-pass host=db port=5432"
+        DB_URI = "dbname=evvccoaz user=evvccoaz password=TxJAu-m85qilcdHyT_rIqojyNIsDF-n7 host=evvccoaz port=5432"
         
         # MEGA CONFIG
         MEGA_ENABLE = False
