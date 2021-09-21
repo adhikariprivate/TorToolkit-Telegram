@@ -11,7 +11,7 @@ except:
         BASE_URL_OF_BOT = "http://tortoolkit.1x86.sauravadhikary.com.np"
 
         # Edit the server port if you want to keep it default though.
-        SERVPORT = 80
+        SERVPORT = 8000
 
         # ALLOWED USERS [ids of user or supergroup] seperate by commas
         ALD_USR = [1415347082,1742999569]
