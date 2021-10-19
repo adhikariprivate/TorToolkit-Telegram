@@ -8,7 +8,7 @@ except:
         API_HASH = "884765e7f790c0b1695f054474da7d04"
         API_ID = 6024506
         BOT_TOKEN = "2032066394:AAGKx0ZI9v02dk8NYZakQXd0FqY8XSXFp7w"
-        BASE_URL_OF_BOT = "http://tortoolkit.1x86.sauravadhikary.com.np"
+        BASE_URL_OF_BOT = "https://sttoolkit-u001.koyeb.app/"
 
         # Edit the server port if you want to keep it default though.
         SERVPORT = 80
