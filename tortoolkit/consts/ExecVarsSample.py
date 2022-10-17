@@ -7,8 +7,8 @@ except:
         
         API_HASH = "884765e7f790c0b1695f054474da7d04"
         API_ID = 6024506
-        BOT_TOKEN = "2032066394:AAGKx0ZI9v02dk8NYZakQXd0FqY8XSXFp7w"
-        BASE_URL_OF_BOT = "https://sttoolkit-u001.koyeb.app/"
+        BOT_TOKEN = "2032066394:AAG_TarPVxFWoJvs1XXFkEpTAnwApDKl35I"
+        BASE_URL_OF_BOT = ""
 
         # Edit the server port if you want to keep it default though.
         SERVPORT = 80
@@ -48,7 +48,7 @@ except:
         MEGA_PASS = None
 
         # The base direcory to which the files will be upload if using RCLONE
-        RCLONE_BASE_DIR = "/"
+        RCLONE_BASE_DIR = "/TG_Uploads"
 
         # This value will be considered only if Rclone is True - this may be defied now ;)
         # Cuz at least one needs to be Ture at a time either RCLONE or Leech.
