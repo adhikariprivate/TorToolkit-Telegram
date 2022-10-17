@@ -8,7 +8,7 @@ except:
         API_HASH = "884765e7f790c0b1695f054474da7d04"
         API_ID = 6024506
         BOT_TOKEN = "2032066394:AAG_TarPVxFWoJvs1XXFkEpTAnwApDKl35I"
-        BASE_URL_OF_BOT = ""
+        BASE_URL_OF_BOT = "https://ttkt.saurav.pp.ua"
 
         # Edit the server port if you want to keep it default though.
         SERVPORT = 80
